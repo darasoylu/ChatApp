@@ -1,6 +1,13 @@
 # ChatApp
-- Firebase Chat Application
+Firebase Chat Application
+
 ## Screenshots
-- Login![](https://github.com/darasoylu/ChatApp/blob/master/screenshots/login.png)
-- Home![](https://github.com/darasoylu/ChatApp/blob/master/screenshots/home.png)
-- Chat![](https://github.com/darasoylu/ChatApp/blob/master/screenshots/chat.png)
+
+### Login
+<img src="https://github.com/darasoylu/ChatApp/blob/master/screenshots/login.png" width="200">
+
+### Home
+<img src="https://github.com/darasoylu/ChatApp/blob/master/screenshots/home.png" width="200">
+
+### Chat
+<img src="https://github.com/darasoylu/ChatApp/blob/master/screenshots/chat.png" width="200">
