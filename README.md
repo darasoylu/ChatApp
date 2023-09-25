@@ -1,6 +1,10 @@
 # ChatApp
 Firebase Chat Application
 
+## Libraries and Features
+- Firebase Authentication
+- Firebase Realtime Database
+
 ## Screenshots
 
 ### Login
